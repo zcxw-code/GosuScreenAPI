@@ -41,3 +41,9 @@
 |`16`|`dhl`|
 |`17`|`jofogas`|
 |`18`|`foxpost`|
+|`19`|`depop`|
+|`20`|`elta`|
+|`21`|`acs`|
+|`22`|`shpock`|
+|`23`|`gumtree`|
+|`24`|`gls`|
