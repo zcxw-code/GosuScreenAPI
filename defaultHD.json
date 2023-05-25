@@ -1,0 +1,144 @@
+{
+    "czech": {
+        "vinted": {
+            "heading": "Produkt byl úspěšně zaplacen.",
+            "description": "Aby se předešlo podvodům, byl vygenerován QR kód, který\nje třeba odeslat prodávajícímu prostřednictvím zprávy.\nProdávající musí QR kód naskenovat, aby dokončil prodej a\nobdržel peníze na svou kartu. Poté, co obdrží platbu, kurýr\nse spojí s prodávajícím, domluví se na setkání a vyzvedne\nzboží k doručení.",
+        },
+        "dpd": {
+            "heading": "Produkt byl úspěšně zaplacen.",
+            "description": "Aby se předešlo podvodům, byl vygenerován\nQR kód, který je třeba odeslat prodávajícímu\nprostřednictvím zprávy. Prodávající musí QR\nkód naskenovat, aby dokončil prodej a\nobdržel peníze na svou kartu. Poté, co obdrží\nplatbu, kurýr se spojí s prodávajícím, domluví\nse na setkání a vyzvedne zboží k doručení.",
+        },
+        "facebook": {
+            "heading": "Produkt byl úspěšně zaplacen.",
+            "description": "Aby se předešlo podvodům, byl vygenerován QR kód,\nkterý je třeba odeslat prodávajícímu prostřednictvím\nzprávy. Prodávající musí QR kód naskenovat, aby\ndokončil prodej a obdržel peníze na svou kartu. Poté,\nco obdrží platbu, kurýr se spojí s prodávajícím,\ndomluví se na setkání a vyzvedne zboží k doručení.",
+        },
+        "zasilkovna": {
+            "heading": "Produkt byl úspěšně zaplacen.",
+            "description": "Aby se předešlo podvodům, byl vygenerován\nQR kód, který je třeba odeslat prodávajícímu\nprostřednictvím zprávy. Prodávající musí QR\nkód naskenovat, aby dokončil prodej a\nobdržel peníze na svou kartu. Poté, co obdrží\nplatbu, kurýr se spojí s prodávajícím, domluví\nse na setkání a vyzvedne zboží k doručení.",
+        },
+        "gls": {
+            "heading": "Produkt byl úspěšně zaplacen.",
+            "description": "Aby se předešlo podvodům, byl vygenerován QR kód,\nkterý je třeba odeslat prodávajícímu prostřednictvím\nzprávy. Prodávající musí QR kód naskenovat, aby\ndokončil prodej a obdržel peníze na svou kartu. Poté,\nco obdrží platbu, kurýr se spojí s prodávajícím,\ndomluví se na setkání a vyzvedne zboží k doručení.",
+        },
+        "balikovna": {
+            "heading": "Produkt byl úspěšně zaplacen.",
+            "description": "Aby se předešlo podvodům, byl vygenerován QR kód,\nkterý je třeba odeslat prodávajícímu prostřednictvím\nzprávy. Prodávající musí QR kód naskenovat, aby\ndokončil prodej a obdržel peníze na svou kartu. Poté,\nco obdrží platbu, kurýr se spojí s prodávajícím, domluví\nse na setkání a vyzvedne zboží k doručení.",
+        }
+    },
+    "italy": {
+        "subito": {
+            "heading": "Prodotto pagato con successo.",
+            "description": "Per evitare frodi, è stato generato un codice QR che deve\nessere inviato al venditore tramite messaggio.\nIl venditore dovrà scansionare il codice QR per completare\nla vendita e ricevere i soldi sulla sua carta. Dopo aver\nricevuto i soldi, il corriere contatterà il venditore,\nconcorderà un incontro e ritirerà la merce per la consegna.",
+        },
+        "wallapop": {
+            "heading": "Prodotto pagato con successo.",
+            "description": "Per evitare frodi, è stato generato un codice QR che\ndeve essere inviato al venditore tramite\nmessaggio. Il venditore dovrà scansionare il codice\nQR per completare la vendita e ricevere i soldi sulla\nsua carta. Dopo aver ricevuto i soldi, il corriere con-\ntatterà il venditore, concorderà un incontro e ritir-\nerà la merce per la consegna.",
+        },
+        "vinted": {
+            "heading": "Prodotto pagato con successo.",
+            "description": "Per evitare frodi, è stato generato un codice QR che\ndeve essere inviato al venditore tramite messaggio.\nIl venditore dovrà scansionare il codice QR per\ncompletare la vendita e ricevere i soldi sulla sua\ncarta. Dopo aver ricevuto i soldi, il corriere contatterà\nil venditore, concorderà un incontro e ritirerà la\nmerce per la consegna.",
+        },
+        "spedire": {
+            "heading": "Prodotto pagato con successo.",
+            "description": "Per evitare frodi, è stato generato un codice QR che deve\nessere inviato al venditore tramite messaggio. Il venditore\ndovrà scansionare il codice QR per completare la vendita e\nricevere i soldi sulla sua carta. Dopo aver ricevuto i soldi, il\ncorriere contatterà il venditore, concorderà un incontro e\nritirerà la merce per la consegna.",
+        },
+        "facebook": {
+            "heading": "Prodotto pagato con successo.",
+            "description": "Per evitare frodi, è stato generato un codice QR\nche deve essere inviato al venditore tramite\nmessaggio. Il venditore dovrà scansionare il\ncodice QR per completare la vendita e ricevere i\nsoldi sulla sua carta. Dopo aver ricevuto i soldi, il\ncorriere contatterà il venditore, concorderà un\nincontro e ritirerà la merce per la consegna.",
+        }
+    },
+    "slovakia": {
+        "zasilkovna": {
+            "heading": "Produkt byl úspěšně zaplacen.",
+            "description": "Aby se předešlo podvodům, byl vygenerován\nQR kód, který je třeba odeslat prodávajícímu\nprostřednictvím zprávy. Prodávající musí QR\nkód naskenovat, aby dokončil prodej a\nobdržel peníze na svou kartu. Poté, co obdrží\nplatbu, kurýr se spojí s prodávajícím, domluví\nse na setkání a vyzvedne zboží k doručení.",
+        },
+        "vinted": {
+            "heading": "Produkt byl úspěšně zaplacen.",
+            "description": "Aby se předešlo podvodům, byl vygenerován QR kód,\nkterý je třeba odeslat prodávajícímu prostřednictvím\nzprávy. Prodávající musí QR kód naskenovat, aby\ndokončil prodej a obdržel peníze na svou kartu. Poté,\nco obdrží platbu, kurýr se spojí s prodávajícím,\ndomluví se na setkání a vyzvedne zboží k doručení.",
+        },
+        "dpd": {
+            "heading": "Produkt byl úspěšně zaplacen.",
+            "description": "Aby se předešlo podvodům, byl vygenerován\nQR kód, který je třeba odeslat prodávajícímu\nprostřednictvím zprávy. Prodávající musí QR\nkód naskenovat, aby dokončil prodej a\nobdržel peníze na svou kartu. Poté, co obdrží\nplatbu, kurýr se spojí s prodávajícím, domluví\nse na setkání a vyzvedne zboží k doručení.",
+        },
+        "facebook": {
+            "heading": "Produkt byl úspěšně zaplacen.",
+            "description": "Aby se předešlo podvodům, byl vygenerován QR\nkód, který je třeba odeslat prodávajícímu\nprostřednictvím zprávy. Prodávající musí QR kód\nnaskenovat, aby dokončil prodej a obdržel\npeníze na svou kartu. Poté, co obdrží platbu,\nkurýr se spojí s prodávajícím, domluví se na\nsetkání a vyzvedne zboží k doručení.",
+        },
+        "packeta": {
+            "heading": "Produkt byl úspěšně zaplacen.",
+            "description": "Aby se předešlo podvodům, byl vygenerován\nQR kód, který je třeba odeslat prodávajícímu\nprostřednictvím zprávy. Prodávající musí QR\nkód naskenovat, aby dokončil prodej a\nobdržel peníze na svou kartu. Poté, co obdrží\nplatbu, kurýr se spojí s prodávajícím, domluví\nse na setkání a vyzvedne zboží k doručení.",
+        }
+    },
+    "spain": {
+        "vinted": {
+            "heading": "Producto pagado con éxito.",
+            "description": "Para evitar fraudes, se ha generado un código QR que\ndebe ser enviado al vendedor a través de un mensaje.\nEl vendedor debe escanear el código QR para\ncompletar la venta y recibir el dinero en su tarjeta.\nDespués de recibir el pago, el mensajero se pondrá en\ncontacto con el vendedor, acordará una reunión y\nrecogerá la mercancía para su entrega.",
+        },
+        "facebook": {
+            "heading": "Producto pagado con éxito.",
+            "description": "Para evitar fraudes, se ha generado un código QR\nque debe ser enviado al vendedor a través de un\nmensaje. El vendedor debe escanear el código QR\npara completar la venta y recibir el dinero en su\ntarjeta. Después de recibir el pago, el mensajero se\npondrá en contacto con el vendedor, acordará una\nreunión y recogerá la mercancía para su entrega.",
+        },
+        "wallapop": {
+            "heading": "Producto pagado con éxito.",
+            "description": "Para evitar fraudes, se ha generado un código QR\nque debe ser enviado al vendedor a través de un\nmensaje. El vendedor debe escanear el código QR\npara completar la venta y recibir el dinero en su tar-\njeta. Después de recibir el pago, el mensajero se\npondrá en contacto con el vendedor, acordará una\nreunión y recogerá la mercancía para su entrega.",
+        },
+    },
+    "germany": {
+        "vinted": {
+            "heading": "Die Zahlung wurde erfolgreich abgeschlossen.",
+            "description": "Um Betrug zu vermeiden, wurde ein QR-Code generiert,\nder dem Verkäufer per Nachricht gesendet werden muss.\nDer Verkäufer muss den QR-Code scannen, um den\nVerkauf abzuschließen und das Geld auf seine Karte zu\nerhalten. Nach Erhalt der Zahlung wird sich der Kurier mit\ndem Verkäufer in Verbindung setzen, einen Termin\nvereinbaren und die Ware zur Lieferung abholen.",
+        },
+        "facebook": {
+            "heading": "Die Zahlung wurde erfolgreich abgeschlossen.",
+            "description": "Um Betrug zu vermeiden, wurde ein QR-Code generiert,\nder dem Verkäufer per Nachricht gesendet werden\nmuss. Der Verkäufer muss den QR-Code scannen, um\nden Verkauf abzuschließen und das Geld auf seine Karte\nzu erhalten. Nach Erhalt der Zahlung wird sich der Kurier\nmit dem Verkäufer in Verbindung setzen, einen Termin\nvereinbaren und die Ware zur Lieferung abholen.",
+        },
+        "ebayklz": {
+            "heading": "Die Zahlung wurde erfolgreich abgeschlossen.",
+            "description": "Um Betrug zu vermeiden, wurde ein QR-Code\ngeneriert, der dem Verkäufer per Nachricht gesendet\nwerden muss. Der Verkäufer muss den QR-Code\nscannen, um den Verkauf abzuschließen und das Geld\nauf seine Karte zu erhalten. Nach Erhalt der Zahlung\nwird sich der Kurier mit dem Verkäufer in Verbindung\nsetzen, einen Termin vereinbaren und die Ware zur\nLieferung abholen.",
+        },
+        "dhl": {
+            "heading": "Die Zahlung wurde erfolgreich abgeschlossen.",
+            "description": "Um Betrug zu vermeiden, wurde ein QR-Code generiert,\nder dem Verkäufer per Nachricht gesendet werden muss.\nDer Verkäufer muss den QR-Code scannen, um den\nVerkauf abzuschließen und das Geld auf seine Karte zu\nerhalten. Nach Erhalt der Zahlung wird sich der Kurier mit\ndem Verkäufer in Verbindung setzen, einen Termin\nvereinbaren und die Ware zur Lieferung abholen.",
+        },
+    },
+    "poland": {
+        "vinted": {
+            "heading": "Produkt został pomyślnie opłacony.",
+            "description": "Aby uniknąć oszustw, został wygenerowany kod QR, który\nnależy przesłać sprzedawcy za pośrednictwem wiadomości.\nSprzedawca musi zeskanować kod QR, aby sfinalizować\nsprzedaż i otrzymać pieniądze na swoją kartę. Po otrzymaniu\npłatności kurier skontaktuje się ze sprzedawcą, umówi się na\nspotkanie i odbierze towar, aby dostarczyć go na miejsce.",
+        },
+        "facebook": {
+            "heading": "Produkt został pomyślnie opłacony.",
+            "description": "Aby uniknąć oszustw, został wygenerowany kod QR, który\nnależy przesłać sprzedawcy za pośrednictwem wiadomości.\nSprzedawca musi zeskanować kod QR, aby sfinalizować\nsprzedaż i otrzymać pieniądze na swoją kartę. Po otrzymaniu\npłatności kurier skontaktuje się ze sprzedawcą, umówi się na\nspotkanie i odbierze towar, aby dostarczyć go na miejsce.",
+        },
+        "olx": {
+            "heading": "Produkt został pomyślnie opłacony.",
+            "description": "Aby uniknąć oszustw, został wygenerowany kod QR, który\nnależy przesłać sprzedawcy za pośrednictwem wiadomości.\nSprzedawca musi zeskanować kod QR, aby sfinalizować\nsprzedaż i otrzymać pieniądze na swoją kartę. Po otrzymaniu\npłatności kurier skontaktuje się ze sprzedawcą, umówi się na\nspotkanie i odbierze towar, aby dostarczyć go na miejsce.",
+        },
+        "dpd": {
+            "heading": "Produkt został pomyślnie opłacony.",
+            "description": "Aby uniknąć oszustw, został wygenerowany kod QR, który\nnależy przesłać sprzedawcy za pośrednictwem wiadomości.\nSprzedawca musi zeskanować kod QR, aby sfinalizować\nsprzedaż i otrzymać pieniądze na swoją kartę. Po otrzymaniu\npłatności kurier skontaktuje się ze sprzedawcą, umówi się na\nspotkanie i odbierze towar, aby dostarczyć go na miejsce.",
+        },
+    },
+    "hungary": {
+        "vinted": {
+            "heading": "A terméket sikeresen kifizették.",
+            "description": "A csalások elkerülése érdekében QR-kódot generáltak,\namelyet üzeneten keresztül kell elküldeni az eladónak. Az\neladónak be kell olvasnia a QR-kódot, hogy befejezze az\nértékesítést és megkapja a pénzt a saját kártyájára.\nAmint megkapja a fizetést, a futár felvessza a kapcsolatot\naz eladóval, megegyeznek a találkozó időpontjában, és\nfelváltják a terméket a kézbesítéshez.",
+        },
+        "facebook": {
+            "heading": "A terméket sikeresen kifizették.",
+            "description": "A csalások elkerülése érdekében QR-kódot generáltak,\namelyet üzeneten keresztül kell elküldeni az eladónak. Az\neladónak be kell olvasnia a QR-kódot, hogy befejezze az\nértékesítést és megkapja a pénzt a saját kártyájára.\nAmint megkapja a fizetést, a futár felvessza a kapcsolatot\naz eladóval, megegyeznek a találkozó időpontjában, és\nfelváltják a terméket a kézbesítéshez.",
+        },
+        "foxpost": {
+            "heading": "A terméket sikeresen kifizették.",
+            "description": "A csalások elkerülése érdekében QR-kódot generáltak,\namelyet üzeneten keresztül kell elküldeni az eladónak.\nAz eladónak be kell olvasnia a QR-kódot, hogy\nbefejezze az értékesítést és megkapja a pénzt a saját\nkártyájára. Amint megkapja a fizetést, a futár felvessza\na kapcsolatot az eladóval, megegyeznek a találkozó\nidőpontjában, és felváltják a terméket a kézbesítéshez.",
+        },
+        "gls": {
+            "heading": "A terméket sikeresen kifizették.",
+            "description": "A csalások elkerülése érdekében QR-kódot generáltak,\namelyet üzeneten keresztül kell elküldeni az eladónak. Az\neladónak be kell olvasnia a QR-kódot, hogy befejezze az\nértékesítést és megkapja a pénzt a saját kártyájára.\nAmint megkapja a fizetést, a futár felvessza a kapcsolatot\naz eladóval, megegyeznek a találkozó időpontjában, és\nfelváltják a terméket a kézbesítéshez.",
+        },
+        "jofogas": {
+            "heading": "A terméket sikeresen kifizették.",
+            "description": "A csalások elkerülése érdekében QR-kódot generáltak,\namelyet üzeneten keresztül kell elküldeni az eladónak.\nAz eladónak be kell olvasnia a QR-kódot, hogy\nbefejezze az értékesítést és megkapja a pénzt a saját\nkártyájára. Amint megkapja a fizetést, a futár felvessza\na kapcsolatot az eladóval, megegyeznek a találkozó\nidőpontjában, és felváltják a terméket a kézbesítéshez.",
+        }
+    }
+}
