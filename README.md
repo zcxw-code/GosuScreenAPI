@@ -10,6 +10,8 @@
 | ------------- | ------------- |
 | Генерация QRCode  | [QRCode.md](./QRCode.md)  |
 | Генерация скриншотов  | [Screen.md](./Screen.md) |
+| Генерация QRCodePro  | [QRCodePro.md](./QRCodePro.md) |
+
 ## Authors
 
 - [@zcxw](https://github.com/zcxw-code)
